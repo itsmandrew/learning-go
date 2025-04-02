@@ -11,5 +11,5 @@ go test -bench=. -benchmem  ./iteration
 
 # Getting Go Test Coverage
 ```bash
-go test -cover
+go test -cover ./iteration
 ```
