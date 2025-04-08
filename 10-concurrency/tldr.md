@@ -22,3 +22,12 @@ Reading down the page of Go code from top to bottom, going 'inside' each functio
 ```bash
 go test -race ./10-concurrency
 ```
+
+
+## Make it fast
+One formulation of an agile way of building software...
+
+MAKE IT WORK, MAKE IT RIGHT, MAKE IT FAST
+
+- 'work' is making the tests pass, 'right' is refactoring the code, and 'fast' is optimizing the code to make, for example, run quickly.
+- we can only make it fast once we've made it work and made it right.
